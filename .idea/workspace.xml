@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b3eeb7-440d-4086-8df1-aa8671f50230" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/thundertech/QuotaContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thundertech/QuotaCreateFlowInitiator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thundertech/QuotaTransferFlowResponder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/TokenContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/TokenIssueFlowInitiator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/TokenIssueFlowResponder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bootcamp/TokenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/ArtContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/ArtState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thundertech/QuotaState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/ArtTransferFlowInitiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thundertech/QuotaTransferFlowInitiator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/ArtTransferFlowResponder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webinarSlides/corda_bootcamp_webinar.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gT7IiUV8prAfCJGRBQUmLJHHXd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="JUnit.ContractTests">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b3eeb7-440d-4086-8df1-aa8671f50230" name="Default Changelist" comment="" />
+      <created>1598126652669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598126652669</updated>
+      <workItem from="1598126654914" duration="755000" />
+      <workItem from="1598127437618" duration="9000" />
+      <workItem from="1598186826584" duration="2255000" />
+      <workItem from="1599393135893" duration="29291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598126993638">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl/0.114.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1598126993638" />
+    <state x="2017" y="128" width="618" height="822" key="find.popup" timestamp="1599433401773">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2017" y="128" width="618" height="822" key="find.popup/0.114.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1599433401773" />
+    <state x="1990" y="246" key="run.anything.popup" timestamp="1599413748597">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1990" y="246" key="run.anything.popup/0.114.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1599413748597" />
+  </component>
+</project>
